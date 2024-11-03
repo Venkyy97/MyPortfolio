@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Flight Delay Prediction'
-cover: './Flight.jpg'
+cover: './Flight.png'
 github: 'https://github.com/Venkyy97/Flight-Delay-Prediction'
 #external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 #cta: 'https://github.com/sai-hari98/InteracT'
