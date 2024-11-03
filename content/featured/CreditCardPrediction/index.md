@@ -2,7 +2,7 @@
 date: '4'
 title: 'Credit Card Approval Prediction'
 cover: './history-of-credit-cards.jpg'
-github: 'https://github.com/sai-hari98/credit-card-approval-prediction'
+github: 'https://github.com/Venkyy97/CreditCardApproval'
 #external: 'https://halcyon-theme.netlify.com/'
 tech:
   - R Programming
