@@ -1,13 +1,12 @@
 ---
 date: '3'
-title: 'InteracT'
-cover: './Android.jpg'
-github: 'https://github.com/ramakrishnar22/InteracT'
+title: 'Flight Delay Prediction'
+cover: './Flight.jpg'
+github: 'https://github.com/Venkyy97/Flight-Delay-Prediction'
 #external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 #cta: 'https://github.com/sai-hari98/InteracT'
 tech:
-  - Android Studio
-  - Google Firebase
+  - Python
 ---
 
-Built an Android app to display upcoming events of my undergrad college along with a chat feature. Integrated the app with Firebase Firestore to manage data, Firebase Auth to manage security
+A machine learning solution for predicting flight delays at major airports using XGBoost, analyzing factors like weather conditions, carrier details, and scheduling patterns.
