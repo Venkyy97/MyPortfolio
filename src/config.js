@@ -4,20 +4,20 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/sai-hari98',
+      url: 'https://github.com/Venkyy97',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/sai_hari98',
+      url: 'https://www.instagram.com/venkat_eshh',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/sai',
+      url: 'https://x.com/VENKATESHWARB5',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sai-hari',
-    }
+      url: 'https://www.linkedin.com/in/venkateshwar-balakrishnan',
+    },
     // ,
     // {
     //   name: 'Codepen',

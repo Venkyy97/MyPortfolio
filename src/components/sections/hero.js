@@ -60,17 +60,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Sairam Harikrishnan.</h2>;
-  const three = <h3 className="big-heading">I build apps.</h3>;
+  const two = <h2 className="big-heading">Venkateshwar Balakrishnan.</h2>;
+  const three = <h3 className="big-heading">I build Analytics solutions and ML models.</h3>;
   const four = (
     <>
       <p>
-        I'm pursuing my Masters in IT and Management at UT Dallas and currently interning at FedEx.
-        With 3+ years of full stack engineering experience , I'm specialized in technologies like
-        SpringBoot, Angular, React, Microsoft Azure and certified in AWS as a Cloud Solutions
-        Architect. I focus on resilient design architectures, like event-driven architecture, to
-        create compelling products. I aim to integrate my full-stack expertise with data science
-        knowledge for developing data-powered applications in my post-graduation career.
+        Data Professional with extensive experience in machine learning and analytics, currently
+        pursuing MS in Business Analytics and AI at UT Dallas. During my tenure at Saudi Aramco, I
+        specialized in developing predictive maintenance systems, computer vision solutions, and
+        real-time anomaly detection platforms
       </p>
 
       {/* at{' '}
@@ -83,7 +81,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/sairam-harikrishnan-resume-sde.pdf"
+      href="/Venkateshwar_Balakrishnan.pdf"
       target="_blank"
       rel="noreferrer">
       Check out my resume!

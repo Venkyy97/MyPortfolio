@@ -154,7 +154,7 @@ const About = () => {
               Fast-forward to today, I'm pursuing my Master's in Business Analytics and Artificial
               Intelligence at UT Dallas and working as a Graduate Assistant in the Office of
               Research and Innovation. I’ve had the privilege of working at
-              <a href="https://www.saipem.com/en">Saipem</a>. My main focus these days is building
+              <a href="https://www.saipem.com/en"> Saipem</a>. My main focus these days is building
               machine learning solutions that are production-ready and highly scalable.
             </p>
 
