@@ -1,16 +1,13 @@
 ---
 date: '1'
-title: 'PlayFy'
-cover: './Color-Spotify-Logo.jpg'
-github: 'https://github.com/sai-hari98/playfy'
+title: 'CUstomer Purchase Patterns - Finite Mixture Models'
+cover: './Customer_purchase.png'
+github: 'https://github.com/Venkyy97/Advanced-Modeling-Customer-Purchase-Prediction'
 #external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-#cta: 'https://github.com/sai-hari98/InteracT'
+#cta: 'https://github.com/Venkyy97/Advanced-Modeling-Customer-Purchase-Prediction'
 tech:
-  - Spring Boot
-  - Java
-  - React
-  - Redis
-  - OAuth 2.0
+  - Python
+  - Scikit Learn
 ---
 
-A web application to sync a spotify user's playlists, export / migrate those playlists to other music stream providers.
+The project implements advanced statistical models to predict customer purchase patterns, utilizing Finite Mixture Models and NBD Regression for optimal predictive performance.
