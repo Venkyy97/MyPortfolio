@@ -66,9 +66,9 @@ const Hero = () => {
     <>
       <p>
         Data Professional with extensive experience in machine learning and analytics, currently
-        pursuing MS in Business Analytics and AI at UT Dallas. During my tenure at Saudi Aramco, I
+        pursuing MS in Business Analytics and AI at UT Dallas. During my tenure at Saipem, I
         specialized in developing predictive maintenance systems, computer vision solutions, and
-        real-time anomaly detection platforms
+        real-time anomaly detection platforms for Saudi Aramco.
       </p>
 
       {/* at{' '}

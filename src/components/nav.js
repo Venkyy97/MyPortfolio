@@ -207,7 +207,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="MyPortfolio/Venkateshwar_Balakrishnan.pdf"
+      href="/MyPortfolio/Venkateshwar_Balakrishnan.pdf"
       target="_blank"
       rel="noopener noreferrer">
       Resume
