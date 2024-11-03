@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'CUstomer Purchase Patterns - Finite Mixture Models'
+title: 'Customer Purchase Patterns - Finite Mixture Models'
 cover: './Customer_purchase.png'
 github: 'https://github.com/Venkyy97/Advanced-Modeling-Customer-Purchase-Prediction'
 #external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
