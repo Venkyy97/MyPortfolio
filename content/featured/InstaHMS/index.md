@@ -1,10 +1,11 @@
 ---
 date: '2'
-title: 'InstaHMS'
-cover: './db.png'
-github: 'https://github.com/sai-hari98/instahms'
+title: 'Conagra Market Analysis'
+cover: './Cn.png'
+github: 'https://github.com/Venkyy97/ConagraMarketAnalysis'
 tech:
-  - MySQL
+  - Python
+  - Tableau
 ---
 
-This project addresses the daily operations of a hospital via effective queries in MySQL. Implemented SQL scripts to define schema, optimized queries, views, stored procedures and triggers.
+Conducted a market analysis of the North American meat substitutes industry, providing actionable insights and recommendations for Gardein to enhance its competitive position against brands like Beyond Meat and Impossible Foods.
