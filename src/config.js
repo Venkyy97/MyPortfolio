@@ -24,7 +24,7 @@ module.exports = {
     //   url: 'https://codepen.io/bchiang7',
     // },
   ],
-
+  // check
   navLinks: [
     {
       name: 'About',
