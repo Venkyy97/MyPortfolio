@@ -81,7 +81,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/Venkateshwar_Balakrishnan.pdf"
+      href="/MyPortfolio/Venkateshwar_Balakrishnan.pdf"
       target="_blank"
       rel="noreferrer">
       Check out my resume!
