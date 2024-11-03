@@ -126,13 +126,13 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Java',
-    'JavaScript',
-    'TypeScript',
-    'SpringBoot',
-    'Angular',
-    'React',
+    'Python',
+    'Microsoft SQL Server',
+    'Power BI',
+    'Tableau',
     'Amazon Web Services (AWS)',
+    'Microsoft Azure',
+    'RAG - Hugging Face, ChromaDB',
   ];
 
   return (
@@ -143,20 +143,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sairam and I enjoy creating things that live on the internet. My
-              interest in app development started back in 2018 when I decided to try creating an
-              android app for viewing reviews using Google Maps API — taught me a lot about app
-              development and how rest services work
+              Hello! My name is Venkatesh, Data science enthusiast with a strong foundation in
+              machine learning, large language models, and analytics. Passionate about leveraging AI
+              for impactful insights, I bring experience in Python, SQL, Azure ML, and Power BI to
+              create scalable data solutions and intelligent models. Eager to explore cutting-edge
+              advancements in data science and LLMs to drive innovation.
             </p>
 
             <p>
-              Fast-forward to today, I'm pursuing my Masters in Information Technology and
-              Management at UT Dallas and working as an intern at{' '}
-              <a href="https://www.fedex.com">FedEx</a>. I’ve had the privilege of working at{' '}
-              <a href="https://copart.com">Copart</a>,{' '}
-              <a href="https://cognizant.com/">Cognizant</a>, and{' '}
-              <a href="https://thoughtworks.com/">ThoughtWorks</a>. My main focus these days is
-              building web applications that are highly scalable and fault tolerant.
+              Fast-forward to today, I'm pursuing my Master's in Business Analytics and Artificial
+              Intelligence at UT Dallas and working as a Graduate Assistant in the Office of
+              Research and Innovation. I’ve had the privilege of working at
+              <a href="https://www.saipem.com/en">Saipem</a>. My main focus these days is building
+              machine learning solutions that are production-ready and highly scalable.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -171,7 +170,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
