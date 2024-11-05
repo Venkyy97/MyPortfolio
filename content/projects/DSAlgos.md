@@ -1,12 +1,11 @@
 ---
 date: '2023-06-01'
-title: 'DS and Algos'
-github: 'https://github.com/sai-hari98/ds-algos'
+title: 'Leetcode Solutions'
+github: 'https://github.com/Venkyy97/Leetcode-Solutions'
 #external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
 tech:
-  - Java
-  - Data Structures
-  - Algorithms
+  - Database SQL
+  - DSA
 #company: 'Upstatement'
 showInProjects: true
 ---
