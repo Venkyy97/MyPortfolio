@@ -1,13 +1,14 @@
 ---
 date: '2020-10-01'
-title: 'Expense Tracker'
-github: 'https://github.com/sai-hari98/expense-tracker'
+title: '911-Call Analysis'
+github: 'https://github.com/Venkyy97/911-Call-analysis'
 #external: 'https://keep-vue.netlify.com/'
 tech:
-  - ReactJS
-  - SpringBoot
-  - MySQL
+  - Python
+  - Pandas
+  - Seaborn
+
 showInProjects: true
 ---
 
-A simple expense tracker application built using SpringBoot and ReactJS
+Analysis of 911 call data
