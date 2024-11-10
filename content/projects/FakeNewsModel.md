@@ -7,7 +7,6 @@ tech:
   - Python
   - NLP
   - Classifiers
-
 showInProjects: true
 ---
 
