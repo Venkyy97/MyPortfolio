@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Local RAG'
-cover: './FRAG.png'
+cover: './RAG.png'
 github: 'https://github.com/Venkyy97/Local_RAG'
 #external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 #cta: 'https://github.com/sai-hari98/InteracT'
