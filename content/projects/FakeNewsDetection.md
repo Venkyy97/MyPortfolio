@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A Python-based Fake News Detection system using NLP techniques, Scikit-learn, and machine learning classifiers, with Logistic Regression achieving optimal performance for real-time prediction.
+A Python-based Fake News Detection system using NLP techniques

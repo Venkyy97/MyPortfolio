@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A machine learning project predicting flight delays using historical data, weather, and flight schedules, with XGBoost achieving 90% accuracy.
+A machine learning project predicting flight delays
