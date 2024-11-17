@@ -78,17 +78,23 @@ const Hero = () => {
         . */}
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="/MyPortfolio/Venkateshwar_Balakrishnan.pdf"
-      target="_blank"
-      rel="noreferrer">
-      Check out my resume!
-    </a>
-  );
+  // const five = (
+  //   <a
+  //     className="email-link"
+  //     href="/MyPortfolio/Venkateshwar_Balakrishnan.pdf"
+  //     target="_blank"
+  //     rel="noreferrer">
+  //     Check out my resume!
+  //   </a>
+  //  );
 
-  const items = [one, two, three, four, five];
+  const items = [
+    one,
+    two,
+    three,
+    four,
+    // , five
+  ];
 
   return (
     <StyledHeroSection>
