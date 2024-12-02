@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Conagra Market Analysis'
 cover: './Cn.png'
 github: 'https://github.com/Venkyy97/ConagraMarketAnalysis'
