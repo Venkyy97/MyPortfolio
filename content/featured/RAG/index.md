@@ -7,8 +7,9 @@ github: 'https://github.com/Venkyy97/Local_RAG'
 #cta: 'https://github.com/sai-hari98/InteracT'
 tech:
   - Python
-  - ChromaDB
-  - Ollama
+  - Langchain
+  - VectorDB
+  - Llama 3.2
 ---
 
-A Flask-based API for answering queries using Ollama's LLM and retrieving content from uploaded PDFs via Chroma vector store with embeddings.
+RAG system using LangChain and Ollama, incorporating document retrieval, prompt engineering, hallucination grading and web search capabilities with graph-based orchestration.
