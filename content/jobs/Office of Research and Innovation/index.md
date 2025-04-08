@@ -1,10 +1,12 @@
 ---
 date: '2023-10-16'
 title: 'Graduate Assistant'
-company: 'Office of Research and Innovation'
+company: 'pSOLV'
 location: 'Dallas, Texas'
-range: 'Oct 2024 - Present'
-url: 'https://research.utdallas.edu/'
+range: 'Jan 2025 - Present'
+url: 'https://psolv.com/'
 ---
 
-- Conducted market research and analysis to identify potential industry partners and licensees for university-developed technologies, contributing to strategic marketing initiatives and commercialization efforts within the Office of Research and Innovation at UT Dallas.
+- Reduced ETL job failures by 30% in the in-house workflow tool NeedleTail by implementing pre-execution validation using Python AST.
+
+- Engineered an automated data quality system utilizing multiple LLMs, integrated with Ollama, to automatically repair data
