@@ -65,10 +65,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Data Professional with extensive experience in machine learning and analytics, currently
-        pursuing MS in Business Analytics and AI at UT Dallas. During my tenure at Saipem, I
-        specialized in developing predictive maintenance systems, computer vision solutions, and
-        real-time anomaly detection platforms for Saudi Aramco.
+        Data Professional with extensive experience in machine learning and analytics, graduated
+        with MS in Business Analytics and AI at UT Dallas. During my tenure at Saipem, I specialized
+        in developing predictive maintenance systems, computer vision solutions, and real-time
+        anomaly detection platforms for Saudi Aramco. Currently at pSolv, I am working as a data
+        engineer, developing data quality solutions with LLMs and building pipelines for healthcare
+        data.
       </p>
 
       {/* at{' '}

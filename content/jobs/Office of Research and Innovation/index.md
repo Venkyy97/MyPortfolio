@@ -1,12 +1,10 @@
 ---
 date: '2023-10-16'
 title: 'Graduate Assistant'
-company: 'pSOLV'
+company: 'Office of Research and innovation'
 location: 'Dallas, Texas'
 range: 'Jan 2025 - Present'
-url: 'https://psolv.com/'
+url: 'https://innovation.utdallas.edu/venture-development-center/'
 ---
 
-- Reduced ETL job failures by 30% in the in-house workflow tool NeedleTail by implementing pre-execution validation using Python AST.
-
-- Engineered an automated data quality system utilizing multiple LLMs, integrated with Ollama, to automatically repair data
+- Analyzed USPTO-approved patents to create detailed summaries supporting targeted marketing campaigns and supported communications between startups and the university
