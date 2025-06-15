@@ -1,9 +1,9 @@
 ---
-date: '2023-10-16'
+date: '2023-10-15'
 title: 'Graduate Assistant'
 company: 'Office of Research and innovation'
 location: 'Dallas, Texas'
-range: 'Jan 2025 - Present'
+range: 'Oct 2023 - Dec 2024'
 url: 'https://innovation.utdallas.edu/venture-development-center/'
 ---
 

@@ -143,19 +143,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Venkatesh, Data science enthusiast with a strong foundation in
-              machine learning, large language models, and analytics. Passionate about leveraging AI
-              for impactful insights, I bring experience in Python, SQL, Azure ML, and Power BI to
-              create scalable data solutions and intelligent models. Eager to explore cutting-edge
-              advancements in data science and LLMs to drive innovation.
+              Hello! My name is Venkatesh, Data enthusiast with a strong foundation in machine
+              learning and analytics. Passionate about leveraging data and AI for impactful
+              insights, I bring experience in Python, SQL, AWS, and Power BI to create scalable data
+              solutions and models in healthcare and supply chain space. Eager to explore
+              cutting-edge advancements in data science and LLMs to drive business value.
             </p>
 
             <p>
-              Fast-forward to today, I'm pursuing my Master's in Business Analytics and Artificial
-              Intelligence at UT Dallas and working as a Graduate Assistant in the Office of
-              Research and Innovation. I’ve had the privilege of working at
-              <a href="https://www.saipem.com/en"> Saipem</a>. My main focus these days is building
-              machine learning solutions that are production-ready and highly scalable.
+              Fast-forward to today, I’ve graduated with my Master’s in Business Analytics and
+              Artificial Intelligence from UT Dallas and now work at{' '}
+              <a href="https://www.psolv.com">pSolv</a> as a Data Engineer. My focus is on building
+              robust healthcare data pipelines and automating data quality systems using large
+              language models (LLMs).
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
